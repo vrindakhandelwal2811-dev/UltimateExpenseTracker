@@ -46,5 +46,5 @@ A beautiful, modern expense tracking application built with Python that helps yo
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/ultimate-expense-tracker.git
+git clone https://github.com/yourusername/ultimate-expense-tracker.git](https://vrindakhandelwal2811-dev.github.io/UltimateExpenseTracker/
 cd ultimate-expense-tracker
